@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Mammadov</h1>
 <h3 align="center">Detail-oriented software developer adept at both independent and collaborative projects with an emphasis on landing page and website development.</h3>
 
+- 🔭 I’m currently working on my **personal portfolio**
 
 - 🌱 I’m currently learning **React.js**
 
