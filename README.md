@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mammadovali&show_icons=true&locale=en&layout=compact" alt="mammadovali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mammadovali&show_icons=true&locale=en" alt="mammadovali" /></p>
+
 
 
