@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Mammadov</h1>
-- 🔭 I’m currently working on my **personal portfolio**
+- 🔭 I’m currently working on my **Personal Portfolio**
 
 - 🌱 I’m currently learning **React.js**
 
