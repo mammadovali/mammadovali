@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mammadovali&show_icons=true&locale=en" alt="mammadovali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mammadovali&" alt="mammadovali" /></p>
+
