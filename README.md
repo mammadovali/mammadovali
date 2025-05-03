@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my **personal portfolio**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **alimammadsoy@gmail.com**
 
